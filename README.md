@@ -5,3 +5,6 @@
 
 ### ERD
 <img src="erd_hyeyum.png" width="600" height="400"/>
+
+### 프로토타입
+<img src="proto_hyeyum.png" width="800" height="400"/>
