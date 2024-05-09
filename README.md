@@ -17,7 +17,9 @@
 <br/>
 
 ### API문서
-[API문서 전체보기](C:\Users\Admin\Desktop\chunjae_python\hyeyum-pjt\api_document_hyeyum.html)
+<!-- URL = 'file:///C:/Users/Admin/Desktop/chunjae_python/hyeyum-pjt/api_document_hyeyum.html' -->
+[API문서 전체보기](https://www.notion.so/fc2834d19d854001906837513a3de4c8?v=bf886206904044479447a45388344fe9&pvs=4)
+[API문서 전체보기](api_document_hyeyum.html)
 
 
 ### 회의록
