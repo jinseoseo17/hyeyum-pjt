@@ -6,7 +6,7 @@
 - 시간을 많이 투자할 수 없는 직장인들을 위해 간결하지만 알찬 맞춤법 학습을 가능하게 합니다.
 
 ### ERD
-<img src="erd_hyeyum.png" width="600" height="400"/>
+<img src="erd_hyeyumm.drawio.png" width="600" height="500"/>
 
 ### 프로토타입
 <img src="proto_hyeyum.png" width="800" height="800"/>
