@@ -1,5 +1,5 @@
 # 한글혜윰 서비스 기획
-<img src="logo_hyeyum.jpg" width="100" height="100"/>
+<img src="logo_hyeyum.jpg" width="300" height="300"/>
 
 ## 프로젝트 소개
 - 게이미피케이션 형식을 활용한 맞춤법 학습앱
