@@ -16,6 +16,8 @@
 [프로토타입 전체보기](https://www.figma.com/design/5mPTzOVGaLnoZ3CGZDs73b/%ED%95%9C%EA%B8%80%ED%97%A4%EC%9C%B0_front?node-id=186%3A11757&t=SI37IP3y5vvW35A6-1)
 <br/>
 
+<br/>
+
 ### API문서
 <!-- URL = 'file:///C:/Users/Admin/Desktop/chunjae_python/hyeyum-pjt/api_document_hyeyum.html' -->
 [API문서 전체보기](https://www.notion.so/fc2834d19d854001906837513a3de4c8?v=bf886206904044479447a45388344fe9&pvs=4)
@@ -26,3 +28,5 @@
 ### 회의록
 [회의록 노션 바로가기](https://www.notion.so/6a9ead942b7b456f83f00667c587f8ca?v=1a966281c7f746c1b2af54dac2fea086)
 
+#### 제안서
+[제안서 바로가기](https://www.canva.com/design/DAGAx8wvJ2o/mNvlw5qhyOHb-lW07gvvlw/edit?utm_content=DAGAx8wvJ2o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
