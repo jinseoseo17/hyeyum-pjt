@@ -5,6 +5,7 @@
 ## 프로젝트 소개
 - 게이미피케이션 형식을 활용한 맞춤법 학습앱
 - 시간을 많이 투자할 수 없는 직장인들을 위해 간결하지만 알찬 맞춤법 학습을 가능하게 합니다.
+
 <br/>
 
 
@@ -12,6 +13,7 @@
 <img src="proto_hyeyum.png" width="800" height="800"/>
 
 [프로토타입 전체보기](https://www.figma.com/design/5mPTzOVGaLnoZ3CGZDs73b/%ED%95%9C%EA%B8%80%ED%97%A4%EC%9C%B0_front?node-id=186%3A11757&t=SI37IP3y5vvW35A6-1)
+
 <br/>
 
 <br/>
@@ -23,6 +25,7 @@
 - [학습마당]학습진도율 산출을 위한 구조설계
 - [놀이마당]대결하기(랜덤매칭)/함께하기 옵션을 모두 고려
 - [놀이마당]스코어 산출을 위한 구조설계
+
 <br/>
 
 ### API문서
@@ -35,8 +38,12 @@
 ### 회의록
 [회의록 노션 바로가기](https://www.notion.so/6a9ead942b7b456f83f00667c587f8ca?v=1a966281c7f746c1b2af54dac2fea086)
 
+<br/>
+
 #### 제안서
 [제안서 바로가기](https://www.canva.com/design/DAGAx8wvJ2o/mNvlw5qhyOHb-lW07gvvlw/edit?utm_content=DAGAx8wvJ2o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<br/>
 
 ## 감사합니다
 
